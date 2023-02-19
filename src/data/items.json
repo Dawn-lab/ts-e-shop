@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Humburger",
+        "price": 10.99,
+        "imgUrl": "/images/allen-rad-9G_oJBKwi1c-unsplash.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Humburger2",
+        "price": 10.99,
+        "imgUrl": "/images/jonathan-borba-Kosh4ZkWqas-unsplash.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Humburger3",
+        "price": 10.99,
+        "imgUrl": "/images/kazuend-j6AVTssusro-unsplash.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Pizza",
+        "price": 33.99,
+        "imgUrl": "/images/kristina-bratko-nP11TkjxJ7s-unsplash.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Humburger5",
+        "price": 10.99,
+        "imgUrl": "/images/louis-hansel-vi0kZuoe0-8-unsplash.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Humburge6",
+        "price": 10.99,
+        "imgUrl": "/images/pixzolo-photography-3tL4vtrFqTQ-unsplash.jpg"
+    }
+]
